@@ -8,6 +8,7 @@
 `pip install BeautifulSoup`<br/>
 `pip install requests`<br/>
 `pip install codecs`<br/>
+`pip install lxml`<br/>
 
 ## Status
 Project is: _finished_
