@@ -2,7 +2,7 @@
 > A script that tracks Steam users (name, avatar) who bought a specific case from CS:GO
 
 ## General info
-> This script will help to track ordinary users who bought a case, as well as large investors who invert money into cases.
+> This script will help to track ordinary users who bought a case, as well as large investors who invert money into cases. The file `st.py` is script to find people with same nicknames
 
 ## Install it
 `pip install BeautifulSoup`<br/>
